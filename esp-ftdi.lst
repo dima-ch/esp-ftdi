@@ -1,0 +1,34 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Fri 01 Jan 2016 01:46:38 PM MSK
+#Cmp ( order = Reference )
+| C1         CP1         
+| C2         C           
+| C3         C           
+| JP1        JUMPER      
+| JP2        JUMPER3     
+| JP3        JUMPER      
+| JP4        JUMPER      
+| P1         CONN_4X2    
+| P2         CONN_6      
+| R2         R           
+| R3         R           
+| R6         R           
+| U1         NCP1117ST33T3G
+#End Cmp
+
+#Cmp ( order = Value )
+| CP1          C1        
+| C            C2        
+| C            C3        
+| JUMPER       JP1       
+| JUMPER3      JP2       
+| JUMPER       JP3       
+| JUMPER       JP4       
+| CONN_4X2     P1        
+| CONN_6       P2        
+| R            R2        
+| R            R3        
+| R            R6        
+| NCP1117ST33T3G U1        
+#End Cmp
+
+#End List

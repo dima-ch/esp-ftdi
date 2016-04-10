@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sun 10 Apr 2016 04:53:48 PM MSK
+
+BeginCmp
+TimeStamp = /5634A995;
+Reference = C1;
+ValeurCmp = 10;
+IdModule  = c_elec_6.3x4.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634A97E;
+Reference = C2;
+ValeurCmp = 100;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634A978;
+Reference = C3;
+ValeurCmp = 100;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /570A5A75;
+Reference = C4;
+ValeurCmp = 10;
+IdModule  = c_elec_6.3x4.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /568660F8;
+Reference = D1;
+ValeurCmp = POWER LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634AD3A;
+Reference = JP1;
+ValeurCmp = PROG;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56865B66;
+Reference = JP2;
+ValeurCmp = 3.3V/5V;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56865CDC;
+Reference = JP3;
+ValeurCmp = 5V;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56865CCF;
+Reference = JP4;
+ValeurCmp = 3.3V;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634A043;
+Reference = P1;
+ValeurCmp = ESP-02;
+IdModule  = esp-02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56865A2E;
+Reference = P2;
+ValeurCmp = CONN_6;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /56866105;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634A1CF;
+Reference = R2;
+ValeurCmp = 2K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634A1D5;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634AC24;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5634A086;
+Reference = U1;
+ValeurCmp = NCP1117ST33T3G;
+IdModule  = SOT223;
+EndCmp
+
+EndListe
